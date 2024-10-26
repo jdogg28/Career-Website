@@ -1,0 +1,21 @@
+h3 {
+    margin-top: 30vh;color: orange;
+}
+body{
+    color:lawngreen;
+    background: linear-gradient(to right, dodgerblue, darkorange);
+    font-size: 30px;
+}
+.img{
+    display: flex;
+}
+nav{
+    float: right;
+}
+
+#form{
+    margin: 50px 50px;
+    top: !important 20%;
+    padding: 20px 20px;
+    border: 2px solid lightseagreen;
+}
